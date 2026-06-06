@@ -1,5 +1,6 @@
 import asyncio
 import os
+import json
 from rnet import Impersonate, Client, Proxy, BlockingClient
 from tenacity import retry, stop_after_attempt
 
@@ -10,11 +11,9 @@ class Extractor:
         self.proxy = os.getenv("mobileproxyuk")
         print("mobileproxyuk =", self.proxy)
 
-        # Proxy setup (SAFE)
         proxies = None
 
         if self.proxy:
-            # basic validation to avoid InvalidPort crash
             if "://" in self.proxy and ":" in self.proxy.split("://")[-1]:
                 try:
                     proxies = [
@@ -27,16 +26,12 @@ class Extractor:
             else:
                 print("⚠️ Proxy format invalid, ignoring proxy")
 
-        # Async client
         self.session = Client()
         self.session.update(
             impersonate=Impersonate.Firefox135,
             proxies=proxies
         )
 
-        print("Session created")
-
-        # Blocking client
         self.blocking = BlockingClient()
         self.blocking.update(
             impersonate=Impersonate.Firefox135,
@@ -48,7 +43,6 @@ class Extractor:
         print(f"Fetching {url}")
         resp = await self.session.get(url)
 
-        # safer JSON handling
         try:
             return await resp.json()
         except Exception:
@@ -59,6 +53,25 @@ class Extractor:
         results = await asyncio.gather(*tasks, return_exceptions=True)
         return list(zip(urls, results))
 
+    def save_to_json(self, data, filename="output.json"):
+        """Save scraped data to JSON file"""
+        cleaned = []
+
+        for url, result in data:
+            # convert non-serializable errors
+            if isinstance(result, Exception):
+                result = str(result)
+
+            cleaned.append({
+                "url": url,
+                "data": result
+            })
+
+        with open(filename, "w", encoding="utf-8") as f:
+            json.dump(cleaned, f, ensure_ascii=False, indent=4)
+
+        print(f"✅ Data saved to {filename}")
+
     @retry(stop=stop_after_attempt(3))
     def blocking_fetch(self, url):
         resp = self.blocking.get(url)
@@ -67,7 +80,7 @@ class Extractor:
         try:
             return resp.json()
         except Exception:
-            return resp.text
+            return resp.text()
 
 
 async def main():
@@ -82,6 +95,9 @@ async def main():
 
     for url, result in data:
         print(f"\nURL: {url}\nData: {result}\n")
+
+    # ✅ SAVE TO JSON FILE
+    e.save_to_json(data, "adidas_products.json")
 
 
 if __name__ == "__main__":

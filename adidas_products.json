@@ -1,0 +1,2492 @@
+[
+    {
+        "url": "https://www.adidas.co.uk/api/products/HQ7551",
+        "data": {
+            "id": "HQ7551",
+            "product_type": "inline",
+            "base_model_number": "ONV04",
+            "model_number": "ONV04",
+            "name": "ADISTAR XLG 2.0 SHOES",
+            "meta_data": {
+                "canonical": "//www.adidas.co.uk/adistar-xlg-2.0-shoes/HQ7551.html",
+                "description": "Shop for Green ADISTAR XLG 2.0 SHOES at adidas.co.uk! Free Shipping Options & 30 Day Returns at the official adidas online store.",
+                "keywords": "ADISTAR XLG 2.0 SHOES",
+                "page_title": "adidas ADISTAR XLG 2.0 SHOES - Green | adidas UK",
+                "site_name": "adidas United Kingdom"
+            },
+            "view_list": [
+                {
+                    "type": "standard",
+                    "source": "CLOUDINARY",
+                    "image_url": "https://assets.adidas.com/images/w_600,f_auto,q_auto/41a3da0e9f774abba53490eac5a7aafe_9366/ADISTAR_XLG_2.0_SHOES_Green_HQ7551_01_00_standard.jpg",
+                    "metadata": {
+                        "asset_usage": [
+                            "pdp"
+                        ],
+                        "asset_category": "Photography",
+                        "imageStyle": "Standard",
+                        "view": "Side Lateral Center View",
+                        "usageTerms": "eCommerce",
+                        "sortOrder": "1",
+                        "subjects": [
+                            {
+                                "gender": "male"
+                            },
+                            {
+                                "gender": "female"
+                            }
+                        ]
+                    },
+                    "file_revision_date": "2025-09-18T14:55:10Z"
+                },
+                {
+                    "type": "videoasset",
+                    "image_url": "https://assets.adidas.com/videos/w_600,f_auto,q_auto/699955a0bec9464cb0b73c7c4fb07667_d98c/ADISTAR_XLG_2.0_SHOES_Green_HQ7551_video.jpg",
+                    "video_url": "https://assets.adidas.com/videos/t_videomain/699955a0bec9464cb0b73c7c4fb07667_d98c/ADISTAR_XLG_2.0_SHOES_Green_HQ7551_video.mp4",
+                    "source": "CLOUDINARY",
+                    "metadata": {
+                        "asset_usage": [
+                            "pdp"
+                        ],
+                        "asset_category": "Video - CG",
+                        "imageStyle": "Marketing",
+                        "view": "HeroMrktng View 1",
+                        "usageTerms": "eCommerceMarketing",
+                        "sortOrder": "10",
+                        "subjects": [
+                            {
+                                "gender": "male"
+                            },
+                            {
+                                "gender": "female"
+                            }
+                        ]
+                    },
+                    "file_revision_date": "2025-11-14T09:40:57Z"
+                },
+                {
+                    "type": "other",
+                    "source": "CLOUDINARY",
+                    "image_url": "https://assets.adidas.com/images/w_600,f_auto,q_auto/9a70d067bdfd4b4cb5cbd8777795ee97_9366/ADISTAR_XLG_2.0_SHOES_Green_HQ7551_02_standard_hover.jpg",
+                    "metadata": {
+                        "asset_usage": [
+                            "pdp",
+                            "plp"
+                        ],
+                        "asset_category": "Photography",
+                        "imageStyle": "Standard",
+                        "view": "Top Portrait View",
+                        "usageTerms": "eCommerce",
+                        "sortOrder": "2",
+                        "subjects": [
+                            {
+                                "gender": "male"
+                            },
+                            {
+                                "gender": "female"
+                            }
+                        ]
+                    },
+                    "file_revision_date": "2025-09-18T14:55:23Z"
+                },
+                {
+                    "type": "standard",
+                    "source": "CLOUDINARY",
+                    "image_url": "https://assets.adidas.com/images/w_600,f_auto,q_auto/39628bbc08204ef6a30fa608d6fe2ca3_9366/ADISTAR_XLG_2.0_SHOES_Green_HQ7551_03_standard.jpg",
+                    "metadata": {
+                        "asset_usage": [
+                            "pdp"
+                        ],
+                        "asset_category": "Photography",
+                        "imageStyle": "Standard",
+                        "view": "Bottom View",
+                        "usageTerms": "eCommerce",
+                        "sortOrder": "3",
+                        "subjects": [
+                            {
+                                "gender": "male"
+                            },
+                            {
+                                "gender": "female"
+                            }
+                        ]
+                    },
+                    "file_revision_date": "2025-09-18T14:55:34Z"
+                },
+                {
+                    "type": "standard",
+                    "source": "CLOUDINARY",
+                    "image_url": "https://assets.adidas.com/images/w_600,f_auto,q_auto/8b0cda5d79c54e01bb8bd17d28c8120b_9366/ADISTAR_XLG_2.0_SHOES_Green_HQ7551_04_standard.jpg",
+                    "metadata": {
+                        "asset_usage": [
+                            "pdp"
+                        ],
+                        "asset_category": "Photography",
+                        "imageStyle": "Standard",
+                        "view": "Front Lateral Top View",
+                        "usageTerms": "eCommerce",
+                        "sortOrder": "4",
+                        "subjects": [
+                            {
+                                "gender": "male"
+                            },
+                            {
+                                "gender": "female"
+                            }
+                        ]
+                    },
+                    "file_revision_date": "2025-09-18T14:55:55Z"
+                },
+                {
+                    "type": "standard",
+                    "source": "CLOUDINARY",
+                    "image_url": "https://assets.adidas.com/images/w_600,f_auto,q_auto/85282180d963490282d740f12249df6c_9366/ADISTAR_XLG_2.0_SHOES_Green_HQ7551_05_standard.jpg",
+                    "metadata": {
+                        "asset_usage": [
+                            "pdp"
+                        ],
+                        "asset_category": "Photography",
+                        "imageStyle": "Standard",
+                        "view": "Back Lateral Top View",
+                        "usageTerms": "eCommerce",
+                        "sortOrder": "5",
+                        "subjects": [
+                            {
+                                "gender": "male"
+                            },
+                            {
+                                "gender": "female"
+                            }
+                        ]
+                    },
+                    "file_revision_date": "2025-09-18T14:55:54Z"
+                },
+                {
+                    "type": "standard",
+                    "source": "CLOUDINARY",
+                    "image_url": "https://assets.adidas.com/images/w_600,f_auto,q_auto/ed82fb7cce7b4c318386fef7bd82c66d_9366/ADISTAR_XLG_2.0_SHOES_Green_HQ7551_06_standard.jpg",
+                    "metadata": {
+                        "asset_usage": [
+                            "pdp"
+                        ],
+                        "asset_category": "Photography",
+                        "imageStyle": "Standard",
+                        "view": "Side Medial Center View",
+                        "usageTerms": "eCommerce",
+                        "sortOrder": "6",
+                        "subjects": [
+                            {
+                                "gender": "male"
+                            },
+                            {
+                                "gender": "female"
+                            }
+                        ]
+                    },
+                    "file_revision_date": "2025-09-18T14:55:16Z"
+                },
+                {
+                    "type": "standard",
+                    "source": "CLOUDINARY",
+                    "image_url": "https://assets.adidas.com/images/w_600,f_auto,q_auto/36df91a2a83b4f1ebda17039759fb2c3_9366/ADISTAR_XLG_2.0_SHOES_Green_HQ7551_09_standard.jpg",
+                    "metadata": {
+                        "asset_usage": [
+                            "pdp"
+                        ],
+                        "asset_category": "Photography",
+                        "imageStyle": "Standard",
+                        "view": "Mirrored Pair View",
+                        "usageTerms": "eCommerce",
+                        "sortOrder": "7",
+                        "subjects": [
+                            {
+                                "gender": "male"
+                            },
+                            {
+                                "gender": "female"
+                            }
+                        ]
+                    },
+                    "file_revision_date": "2025-09-18T15:20:10Z"
+                },
+                {
+                    "type": "detail",
+                    "source": "CLOUDINARY",
+                    "image_url": "https://assets.adidas.com/images/w_600,f_auto,q_auto/b8abedbcf444465ea5dd14a0ef2b683b_9366/ADISTAR_XLG_2.0_SHOES_Green_HQ7551_41_detail.jpg",
+                    "metadata": {
+                        "asset_usage": [
+                            "pdp"
+                        ],
+                        "asset_category": "Photography",
+                        "imageStyle": "Standard",
+                        "view": "Detail View 1",
+                        "usageTerms": "eCommerce",
+                        "sortOrder": "8",
+                        "subjects": [
+                            {
+                                "gender": "male"
+                            },
+                            {
+                                "gender": "female"
+                            }
+                        ]
+                    },
+                    "file_revision_date": "2025-09-18T14:55:53Z"
+                },
+                {
+                    "type": "detail",
+                    "source": "CLOUDINARY",
+                    "image_url": "https://assets.adidas.com/images/w_600,f_auto,q_auto/9e5b97b4084242d2a40aa90751c8cad8_9366/ADISTAR_XLG_2.0_SHOES_Green_HQ7551_42_detail.jpg",
+                    "metadata": {
+                        "asset_usage": [
+                            "pdp"
+                        ],
+                        "asset_category": "Photography",
+                        "imageStyle": "Standard",
+                        "view": "Detail View 2",
+                        "usageTerms": "eCommerce",
+                        "sortOrder": "9",
+                        "subjects": [
+                            {
+                                "gender": "male"
+                            },
+                            {
+                                "gender": "female"
+                            }
+                        ]
+                    },
+                    "file_revision_date": "2025-09-18T14:56:03Z"
+                }
+            ],
+            "dynamic_background_assets": [
+                {
+                    "type": "standard",
+                    "source": "CLOUDINARY",
+                    "image_url": "https://assets.adidas.com/images/w_600,f_auto,q_auto/41a3da0e9f774abba53490eac5a7aafe_faec/ADISTAR_XLG_2.0_SHOES_Green_HQ7551_db01_00_standard.tiff.jpg",
+                    "metadata": {
+                        "asset_usage": [
+                            "pdp"
+                        ],
+                        "asset_category": "Photography",
+                        "image_style": "Standard",
+                        "view": "Side Lateral Center View",
+                        "usage_terms": "eCommerce",
+                        "sort_order": "1",
+                        "subjects": [
+                            {
+                                "gender": "male"
+                            },
+                            {
+                                "gender": "female"
+                            }
+                        ]
+                    },
+                    "file_revision_date": "2025-09-18T14:55:10Z"
+                },
+                {
+                    "type": "other",
+                    "source": "CLOUDINARY",
+                    "image_url": "https://assets.adidas.com/images/w_600,f_auto,q_auto/9a70d067bdfd4b4cb5cbd8777795ee97_faec/ADISTAR_XLG_2.0_SHOES_Green_HQ7551_db02_standard_hover.tiff.jpg",
+                    "metadata": {
+                        "asset_usage": [
+                            "pdp",
+                            "plp"
+                        ],
+                        "asset_category": "Photography",
+                        "image_style": "Standard",
+                        "view": "Top Portrait View",
+                        "usage_terms": "eCommerce",
+                        "sort_order": "2",
+                        "subjects": [
+                            {
+                                "gender": "male"
+                            },
+                            {
+                                "gender": "female"
+                            }
+                        ]
+                    },
+                    "file_revision_date": "2025-09-18T14:55:23Z"
+                },
+                {
+                    "type": "standard",
+                    "source": "CLOUDINARY",
+                    "image_url": "https://assets.adidas.com/images/w_600,f_auto,q_auto/39628bbc08204ef6a30fa608d6fe2ca3_faec/ADISTAR_XLG_2.0_SHOES_Green_HQ7551_db03_standard.tiff.jpg",
+                    "metadata": {
+                        "asset_usage": [
+                            "pdp"
+                        ],
+                        "asset_category": "Photography",
+                        "image_style": "Standard",
+                        "view": "Bottom View",
+                        "usage_terms": "eCommerce",
+                        "sort_order": "3",
+                        "subjects": [
+                            {
+                                "gender": "male"
+                            },
+                            {
+                                "gender": "female"
+                            }
+                        ]
+                    },
+                    "file_revision_date": "2025-09-18T14:55:34Z"
+                },
+                {
+                    "type": "standard",
+                    "source": "CLOUDINARY",
+                    "image_url": "https://assets.adidas.com/images/w_600,f_auto,q_auto/8b0cda5d79c54e01bb8bd17d28c8120b_faec/ADISTAR_XLG_2.0_SHOES_Green_HQ7551_db04_standard.tiff.jpg",
+                    "metadata": {
+                        "asset_usage": [
+                            "pdp"
+                        ],
+                        "asset_category": "Photography",
+                        "image_style": "Standard",
+                        "view": "Front Lateral Top View",
+                        "usage_terms": "eCommerce",
+                        "sort_order": "4",
+                        "subjects": [
+                            {
+                                "gender": "male"
+                            },
+                            {
+                                "gender": "female"
+                            }
+                        ]
+                    },
+                    "file_revision_date": "2025-09-18T14:55:55Z"
+                },
+                {
+                    "type": "standard",
+                    "source": "CLOUDINARY",
+                    "image_url": "https://assets.adidas.com/images/w_600,f_auto,q_auto/85282180d963490282d740f12249df6c_faec/ADISTAR_XLG_2.0_SHOES_Green_HQ7551_db05_standard.tiff.jpg",
+                    "metadata": {
+                        "asset_usage": [
+                            "pdp"
+                        ],
+                        "asset_category": "Photography",
+                        "image_style": "Standard",
+                        "view": "Back Lateral Top View",
+                        "usage_terms": "eCommerce",
+                        "sort_order": "5",
+                        "subjects": [
+                            {
+                                "gender": "male"
+                            },
+                            {
+                                "gender": "female"
+                            }
+                        ]
+                    },
+                    "file_revision_date": "2025-09-18T14:55:54Z"
+                },
+                {
+                    "type": "standard",
+                    "source": "CLOUDINARY",
+                    "image_url": "https://assets.adidas.com/images/w_600,f_auto,q_auto/ed82fb7cce7b4c318386fef7bd82c66d_faec/ADISTAR_XLG_2.0_SHOES_Green_HQ7551_db06_standard.tiff.jpg",
+                    "metadata": {
+                        "asset_usage": [
+                            "pdp"
+                        ],
+                        "asset_category": "Photography",
+                        "image_style": "Standard",
+                        "view": "Side Medial Center View",
+                        "usage_terms": "eCommerce",
+                        "sort_order": "6",
+                        "subjects": [
+                            {
+                                "gender": "male"
+                            },
+                            {
+                                "gender": "female"
+                            }
+                        ]
+                    },
+                    "file_revision_date": "2025-09-18T14:55:16Z"
+                },
+                {
+                    "type": "standard",
+                    "source": "CLOUDINARY",
+                    "image_url": "https://assets.adidas.com/images/w_600,f_auto,q_auto/36df91a2a83b4f1ebda17039759fb2c3_faec/ADISTAR_XLG_2.0_SHOES_Green_HQ7551_db09_standard.tiff.jpg",
+                    "metadata": {
+                        "asset_usage": [
+                            "pdp"
+                        ],
+                        "asset_category": "Photography",
+                        "image_style": "Standard",
+                        "view": "Mirrored Pair View",
+                        "usage_terms": "eCommerce",
+                        "sort_order": "7",
+                        "subjects": [
+                            {
+                                "gender": "male"
+                            },
+                            {
+                                "gender": "female"
+                            }
+                        ]
+                    },
+                    "file_revision_date": "2025-09-18T15:20:10Z"
+                },
+                {
+                    "type": "detail",
+                    "source": "CLOUDINARY",
+                    "image_url": "https://assets.adidas.com/images/w_600,f_auto,q_auto/b8abedbcf444465ea5dd14a0ef2b683b_faec/ADISTAR_XLG_2.0_SHOES_Green_HQ7551_db41_detail.tiff.jpg",
+                    "metadata": {
+                        "asset_usage": [
+                            "pdp"
+                        ],
+                        "asset_category": "Photography",
+                        "image_style": "Standard",
+                        "view": "Detail View 1",
+                        "usage_terms": "eCommerce",
+                        "sort_order": "8",
+                        "subjects": [
+                            {
+                                "gender": "male"
+                            },
+                            {
+                                "gender": "female"
+                            }
+                        ]
+                    },
+                    "file_revision_date": "2025-09-18T14:55:53Z"
+                },
+                {
+                    "type": "detail",
+                    "source": "CLOUDINARY",
+                    "image_url": "https://assets.adidas.com/images/w_600,f_auto,q_auto/9e5b97b4084242d2a40aa90751c8cad8_faec/ADISTAR_XLG_2.0_SHOES_Green_HQ7551_db42_detail.tiff.jpg",
+                    "metadata": {
+                        "asset_usage": [
+                            "pdp"
+                        ],
+                        "asset_category": "Photography",
+                        "image_style": "Standard",
+                        "view": "Detail View 2",
+                        "usage_terms": "eCommerce",
+                        "sort_order": "9",
+                        "subjects": [
+                            {
+                                "gender": "male"
+                            },
+                            {
+                                "gender": "female"
+                            }
+                        ]
+                    },
+                    "file_revision_date": "2025-09-18T14:56:03Z"
+                }
+            ],
+            "confirmed_dynamic_background_assets": [
+                {
+                    "type": "standard",
+                    "source": "CLOUDINARY",
+                    "image_url": "https://assets.adidas.com/images/w_600,f_auto,q_auto/41a3da0e9f774abba53490eac5a7aafe_faec/ADISTAR_XLG_2.0_SHOES_Green_HQ7551_db01_00_standard.jpg",
+                    "metadata": {
+                        "asset_usage": [
+                            "pdp"
+                        ],
+                        "asset_category": "Photography",
+                        "image_style": "Standard",
+                        "view": "Side Lateral Center View",
+                        "usage_terms": "eCommerce",
+                        "sort_order": "1",
+                        "subjects": [
+                            {
+                                "gender": "male"
+                            },
+                            {
+                                "gender": "female"
+                            }
+                        ]
+                    },
+                    "file_revision_date": "2025-09-18T14:55:10Z"
+                },
+                {
+                    "type": "other",
+                    "source": "CLOUDINARY",
+                    "image_url": "https://assets.adidas.com/images/w_600,f_auto,q_auto/9a70d067bdfd4b4cb5cbd8777795ee97_faec/ADISTAR_XLG_2.0_SHOES_Green_HQ7551_db02_standard_hover.jpg",
+                    "metadata": {
+                        "asset_usage": [
+                            "pdp",
+                            "plp"
+                        ],
+                        "asset_category": "Photography",
+                        "image_style": "Standard",
+                        "view": "Top Portrait View",
+                        "usage_terms": "eCommerce",
+                        "sort_order": "2",
+                        "subjects": [
+                            {
+                                "gender": "male"
+                            },
+                            {
+                                "gender": "female"
+                            }
+                        ]
+                    },
+                    "file_revision_date": "2025-09-18T14:55:23Z"
+                },
+                {
+                    "type": "standard",
+                    "source": "CLOUDINARY",
+                    "image_url": "https://assets.adidas.com/images/w_600,f_auto,q_auto/39628bbc08204ef6a30fa608d6fe2ca3_faec/ADISTAR_XLG_2.0_SHOES_Green_HQ7551_db03_standard.jpg",
+                    "metadata": {
+                        "asset_usage": [
+                            "pdp"
+                        ],
+                        "asset_category": "Photography",
+                        "image_style": "Standard",
+                        "view": "Bottom View",
+                        "usage_terms": "eCommerce",
+                        "sort_order": "3",
+                        "subjects": [
+                            {
+                                "gender": "male"
+                            },
+                            {
+                                "gender": "female"
+                            }
+                        ]
+                    },
+                    "file_revision_date": "2025-09-18T14:55:34Z"
+                },
+                {
+                    "type": "standard",
+                    "source": "CLOUDINARY",
+                    "image_url": "https://assets.adidas.com/images/w_600,f_auto,q_auto/8b0cda5d79c54e01bb8bd17d28c8120b_faec/ADISTAR_XLG_2.0_SHOES_Green_HQ7551_db04_standard.jpg",
+                    "metadata": {
+                        "asset_usage": [
+                            "pdp"
+                        ],
+                        "asset_category": "Photography",
+                        "image_style": "Standard",
+                        "view": "Front Lateral Top View",
+                        "usage_terms": "eCommerce",
+                        "sort_order": "4",
+                        "subjects": [
+                            {
+                                "gender": "male"
+                            },
+                            {
+                                "gender": "female"
+                            }
+                        ]
+                    },
+                    "file_revision_date": "2025-09-18T14:55:55Z"
+                },
+                {
+                    "type": "standard",
+                    "source": "CLOUDINARY",
+                    "image_url": "https://assets.adidas.com/images/w_600,f_auto,q_auto/85282180d963490282d740f12249df6c_faec/ADISTAR_XLG_2.0_SHOES_Green_HQ7551_db05_standard.jpg",
+                    "metadata": {
+                        "asset_usage": [
+                            "pdp"
+                        ],
+                        "asset_category": "Photography",
+                        "image_style": "Standard",
+                        "view": "Back Lateral Top View",
+                        "usage_terms": "eCommerce",
+                        "sort_order": "5",
+                        "subjects": [
+                            {
+                                "gender": "male"
+                            },
+                            {
+                                "gender": "female"
+                            }
+                        ]
+                    },
+                    "file_revision_date": "2025-09-18T14:55:54Z"
+                },
+                {
+                    "type": "standard",
+                    "source": "CLOUDINARY",
+                    "image_url": "https://assets.adidas.com/images/w_600,f_auto,q_auto/ed82fb7cce7b4c318386fef7bd82c66d_faec/ADISTAR_XLG_2.0_SHOES_Green_HQ7551_db06_standard.jpg",
+                    "metadata": {
+                        "asset_usage": [
+                            "pdp"
+                        ],
+                        "asset_category": "Photography",
+                        "image_style": "Standard",
+                        "view": "Side Medial Center View",
+                        "usage_terms": "eCommerce",
+                        "sort_order": "6",
+                        "subjects": [
+                            {
+                                "gender": "male"
+                            },
+                            {
+                                "gender": "female"
+                            }
+                        ]
+                    },
+                    "file_revision_date": "2025-09-18T14:55:16Z"
+                },
+                {
+                    "type": "detail",
+                    "source": "CLOUDINARY",
+                    "image_url": "https://assets.adidas.com/images/w_600,f_auto,q_auto/b8abedbcf444465ea5dd14a0ef2b683b_faec/ADISTAR_XLG_2.0_SHOES_Green_HQ7551_db41_detail.jpg",
+                    "metadata": {
+                        "asset_usage": [
+                            "pdp"
+                        ],
+                        "asset_category": "Photography",
+                        "image_style": "Standard",
+                        "view": "Detail View 1",
+                        "usage_terms": "eCommerce",
+                        "sort_order": "7",
+                        "subjects": [
+                            {
+                                "gender": "male"
+                            },
+                            {
+                                "gender": "female"
+                            }
+                        ]
+                    },
+                    "file_revision_date": "2025-09-18T14:55:53Z"
+                },
+                {
+                    "type": "detail",
+                    "source": "CLOUDINARY",
+                    "image_url": "https://assets.adidas.com/images/w_600,f_auto,q_auto/9e5b97b4084242d2a40aa90751c8cad8_faec/ADISTAR_XLG_2.0_SHOES_Green_HQ7551_db42_detail.jpg",
+                    "metadata": {
+                        "asset_usage": [
+                            "pdp"
+                        ],
+                        "asset_category": "Photography",
+                        "image_style": "Standard",
+                        "view": "Detail View 2",
+                        "usage_terms": "eCommerce",
+                        "sort_order": "8",
+                        "subjects": [
+                            {
+                                "gender": "male"
+                            },
+                            {
+                                "gender": "female"
+                            }
+                        ]
+                    },
+                    "file_revision_date": "2025-09-18T14:56:03Z"
+                }
+            ],
+            "product_listing_assets": [
+                {
+                    "type": "standard",
+                    "source": "CLOUDINARY",
+                    "image_url": "https://assets.adidas.com/images/w_600,f_auto,q_auto/715ba779b4104750a2e542ea24a4fee7_9366/ADISTAR_XLG_2.0_SHOES_Green_HQ7551_00_plp_standard.jpg",
+                    "metadata": {
+                        "asset_usage": [
+                            "plp"
+                        ],
+                        "asset_category": "Photography",
+                        "image_style": "Standard",
+                        "view": "Side Lateral View",
+                        "usage_terms": "eCommerce",
+                        "sort_order": "0",
+                        "subjects": [
+                            {
+                                "gender": "male"
+                            },
+                            {
+                                "gender": "female"
+                            }
+                        ]
+                    },
+                    "file_revision_date": "2025-09-18T15:20:21Z"
+                },
+                {
+                    "type": "other",
+                    "source": "CLOUDINARY",
+                    "image_url": "https://assets.adidas.com/images/w_600,f_auto,q_auto/9a70d067bdfd4b4cb5cbd8777795ee97_9366/ADISTAR_XLG_2.0_SHOES_Green_HQ7551_02_standard_hover.jpg",
+                    "metadata": {
+                        "asset_usage": [
+                            "pdp",
+                            "plp"
+                        ],
+                        "asset_category": "Photography",
+                        "image_style": "Standard",
+                        "view": "Top Portrait View",
+                        "usage_terms": "eCommerce",
+                        "sort_order": "2",
+                        "subjects": [
+                            {
+                                "gender": "male"
+                            },
+                            {
+                                "gender": "female"
+                            }
+                        ]
+                    },
+                    "file_revision_date": "2025-09-18T14:55:23Z"
+                }
+            ],
+            "attribute_list": {
+                "sale": false,
+                "brand": "Originals",
+                "color": "Semi Screaming Green / Core Black / Iron Metallic",
+                "colors": {
+                    "color1code": "AE78",
+                    "color2code": "A0QM",
+                    "color3code": "A3NF"
+                },
+                "gender": "U",
+                "outlet": false,
+                "sport": [
+                    "Lifestyle"
+                ],
+                "weight": "472",
+                "closure": [
+                    "Laces"
+                ],
+                "surface": [
+                    "Street"
+                ],
+                "category": "Shoes",
+                "size_page": "S1",
+                "sport_ids": [
+                    "Lifestyle"
+                ],
+                "team_kits": [
+                    "Street Wear"
+                ],
+                "sportSub": [
+                    "adistar"
+                ],
+                "category_id": [
+                    "Shoes"
+                ],
+                "closure_ids": [
+                    "Laces"
+                ],
+                "productfit": [
+                    "Regular"
+                ],
+                "size_fit_bar": {
+                    "value": "ftw_3",
+                    "markerCount": 5,
+                    "selectedMarkerIndex": 2
+                },
+                "surface_ids": [
+                    "Street"
+                ],
+                "team_kit_ids": [
+                    "Street Wear"
+                ],
+                "weight_unit": "g",
+                "collection": [
+                    "Lifestyle Running",
+                    "Back to fitness",
+                    "Trending",
+                    "Spring Favourites",
+                    "Collaborations"
+                ],
+                "search_color": "Green",
+                "base_material": [
+                    "Textile Upper"
+                ],
+                "edition_types": {},
+                "productType": [
+                    "Trainers"
+                ],
+                "midsole_offset": "0.000",
+                "product_fit_ids": [
+                    "Regular"
+                ],
+                "personalizable": false,
+                "toe_stack_height": "0.00",
+                "base_material_ids": [
+                    "Textile Upper"
+                ],
+                "heel_stack_height": "0.00",
+                "isCnCRestricted": false,
+                "key_category_code": "00142",
+                "product_features": [
+                    "Cushioning"
+                ],
+                "gift_wrapping_flag": null,
+                "genericProductType": [
+                    "TRAINERS"
+                ],
+                "mandatory_personalization": false,
+                "product_type_generic_product_type": "TRAINERS",
+                "pxp_type": "NONE",
+                "customizable": false,
+                "search_color_raw": "Green",
+                "is_orderable": true,
+                "isWaitingRoomProduct": false,
+                "isInPreview": false,
+                "specialLaunch": false,
+                "special_launch_type": "NONE",
+                "sizeTypes": {},
+                "is_flash": false,
+                "is_made_to_be_remade": false,
+                "coming_soon_signup": false,
+                "preview_to": "2025-12-03T23:00:00.000Z",
+                "product_sizing_category": "shoe",
+                "size_chart_id": "size-chart-size-shoes",
+                "size_chart_link": "/on/demandware.store/Sites-adidas-GB-Site/en_GB/Page-Include?cid=size-chart-size-shoes"
+            },
+            "breadcrumb_list": [
+                {
+                    "text": "Originals",
+                    "link": "/originals"
+                },
+                {
+                    "text": "Shoes",
+                    "link": "/originals-shoes"
+                }
+            ],
+            "pricing_information": {
+                "currentPrice": 120,
+                "standard_price": 120,
+                "standard_price_no_vat": 100
+            },
+            "price_information": [
+                {
+                    "value": 120,
+                    "value_no_vat": 100,
+                    "type": "original"
+                }
+            ],
+            "tax_class_id": "FullTax",
+            "product_description": {
+                "title": "ADISTAR XLG 2.0 SHOES",
+                "text": "The Adistar XLG 2.0 shoes are part of the adidas Originals family. Inspired by the running silhouettes of the 00s, they have been reimagined for today's urban lifestyle.\n\nThe mesh base and reflective details add a touch of modernity, while the rubber outsole provides reliable grip and durability. Adiprene cushioning in the heel provides extra comfort.\n\nThese shoes are a testament to adidas' commitment to quality and innovation. Whether you're navigating city streets or enjoying a casual day out, these shoes help you do it with style and ease.",
+                "subtitle": "Shoes with Adiprene cushioning for everyday comfort and flexible support.",
+                "usps": [
+                    "Regular fit",
+                    "Laces",
+                    "Textile upper",
+                    "Textile sockliner",
+                    "Rubber outsole",
+                    "Reflective details",
+                    "ADIPRENE cushioning"
+                ],
+                "wash_care_instructions": {
+                    "care_instructions": []
+                },
+                "description_assets": {
+                    "image_url": "https://assets.adidas.com/images/w_600,f_auto,q_auto/8b0cda5d79c54e01bb8bd17d28c8120b_9366/ADISTAR_XLG_2.0_SHOES_Green_HQ7551.jpg",
+                    "video_url": null,
+                    "poster_url": null
+                }
+            },
+            "recommendationsEnabled": true,
+            "product_link_list": [
+                {
+                    "type": "color-variation",
+                    "productId": "HQ7468",
+                    "name": "ADISTAR XLG 2.0 SHOES",
+                    "url": "/adistar-xlg-2.0-shoes/HQ7468.html",
+                    "image": "https://assets.adidas.com/images/w_600,f_auto,q_auto/cddca20273714bfa94de502920ad1d91_9366/ADISTAR_XLG_2.0_SHOES_White_HQ7468_00_plp_standard.jpg",
+                    "altImage": "https://assets.adidas.com/images/w_600,f_auto,q_auto/38ffff575f194403ae15df001c33db6a_9366/ADISTAR_XLG_2.0_SHOES_White_HQ7468_02_standard_hover.jpg",
+                    "dynamic_background_image": "https://assets.adidas.com/images/w_600,f_auto,q_auto/6478fb39e74a489aad75638b10c690f0_faec/ADISTAR_XLG_2.0_SHOES_White_HQ7468_db01_00_standard.tiff.jpg",
+                    "confirmed_dynamic_background_image": "https://assets.adidas.com/images/w_600,f_auto,q_auto/6478fb39e74a489aad75638b10c690f0_faec/ADISTAR_XLG_2.0_SHOES_White_HQ7468_db01_00_standard.jpg",
+                    "pricing_information": {
+                        "standard_price": 120
+                    },
+                    "price_information": [
+                        {
+                            "value": 120,
+                            "value_no_vat": 100,
+                            "type": "original"
+                        }
+                    ],
+                    "search_color": "White",
+                    "default_color": "Cloud White / Core Black / Solar Orange",
+                    "team_kits": [
+                        "Street Wear"
+                    ],
+                    "source": "CLOUDINARY"
+                },
+                {
+                    "type": "color-variation",
+                    "productId": "HQ7553",
+                    "name": "ADISTAR XLG 2.0 SHOES",
+                    "url": "/adistar-xlg-2.0-shoes/HQ7553.html",
+                    "image": "https://assets.adidas.com/images/w_600,f_auto,q_auto/e910fb6c38054a0bb1070d602a6c248e_9366/ADISTAR_XLG_2.0_SHOES_Grey_HQ7553_00_plp_standard.jpg",
+                    "altImage": "https://assets.adidas.com/images/w_600,f_auto,q_auto/eecba664ac564963893c52bcb0e2cf7e_9366/ADISTAR_XLG_2.0_SHOES_Grey_HQ7553_02_standard_hover.jpg",
+                    "dynamic_background_image": "https://assets.adidas.com/images/w_600,f_auto,q_auto/a499cb1985684a1181297865c43fdd4f_faec/ADISTAR_XLG_2.0_SHOES_Grey_HQ7553_db01_00_standard.tiff.jpg",
+                    "confirmed_dynamic_background_image": "https://assets.adidas.com/images/w_600,f_auto,q_auto/a499cb1985684a1181297865c43fdd4f_faec/ADISTAR_XLG_2.0_SHOES_Grey_HQ7553_db01_00_standard.jpg",
+                    "pricing_information": {
+                        "standard_price": 120
+                    },
+                    "price_information": [
+                        {
+                            "value": 120,
+                            "value_no_vat": 100,
+                            "type": "original"
+                        }
+                    ],
+                    "search_color": "Grey",
+                    "default_color": "Grey One / Silver Metallic / Grey Two",
+                    "team_kits": [
+                        "Street Wear"
+                    ],
+                    "source": "CLOUDINARY"
+                },
+                {
+                    "type": "color-variation",
+                    "productId": "HQ7554",
+                    "name": "ADISTAR XLG 2.0 SHOES",
+                    "url": "/adistar-xlg-2.0-shoes/HQ7554.html",
+                    "image": "https://assets.adidas.com/images/w_600,f_auto,q_auto/f09f7ddf2e9945158b09b205c8c275a7_9366/ADISTAR_XLG_2.0_SHOES_Grey_HQ7554_00_plp_standard.jpg",
+                    "altImage": "https://assets.adidas.com/images/w_600,f_auto,q_auto/6320b12426d1419781798ef0a40f8a8d_9366/ADISTAR_XLG_2.0_SHOES_Grey_HQ7554_02_standard_hover.jpg",
+                    "dynamic_background_image": "https://assets.adidas.com/images/w_600,f_auto,q_auto/22fb44b8f8c34cc79459a218d299773d_faec/ADISTAR_XLG_2.0_SHOES_Grey_HQ7554_db01_00_standard.tiff.jpg",
+                    "confirmed_dynamic_background_image": "https://assets.adidas.com/images/w_600,f_auto,q_auto/22fb44b8f8c34cc79459a218d299773d_faec/ADISTAR_XLG_2.0_SHOES_Grey_HQ7554_db01_00_standard.jpg",
+                    "pricing_information": {
+                        "standard_price": 120
+                    },
+                    "price_information": [
+                        {
+                            "value": 120,
+                            "value_no_vat": 100,
+                            "type": "original"
+                        }
+                    ],
+                    "search_color": "Grey",
+                    "default_color": "Grey Four / Grey Four / Silver Metallic",
+                    "team_kits": [
+                        "Street Wear"
+                    ],
+                    "source": "CLOUDINARY"
+                },
+                {
+                    "type": "color-variation",
+                    "productId": "HQ7555",
+                    "name": "ADISTAR XLG 2.0 SHOES",
+                    "url": "/adistar-xlg-2.0-shoes/HQ7555.html",
+                    "image": "https://assets.adidas.com/images/w_600,f_auto,q_auto/48ac00f5cf01465fb88ad511c2cc01a6_9366/ADISTAR_XLG_2.0_SHOES_Black_HQ7555_00_plp_standard.jpg",
+                    "altImage": "https://assets.adidas.com/images/w_600,f_auto,q_auto/5b2b7d747fe4426292c08c656e75db27_9366/ADISTAR_XLG_2.0_SHOES_Black_HQ7555_02_standard_hover.jpg",
+                    "dynamic_background_image": "https://assets.adidas.com/images/w_600,f_auto,q_auto/d8a4290d05c84ef5a4bbf0769cb2ae07_faec/ADISTAR_XLG_2.0_SHOES_Black_HQ7555_db01_00_standard.tiff.jpg",
+                    "confirmed_dynamic_background_image": "https://assets.adidas.com/images/w_600,f_auto,q_auto/d8a4290d05c84ef5a4bbf0769cb2ae07_faec/ADISTAR_XLG_2.0_SHOES_Black_HQ7555_db01_00_standard.jpg",
+                    "pricing_information": {
+                        "standard_price": 120
+                    },
+                    "price_information": [
+                        {
+                            "value": 120,
+                            "value_no_vat": 100,
+                            "type": "original"
+                        }
+                    ],
+                    "search_color": "Black",
+                    "default_color": "Core Black / Core Black / Silver Metallic",
+                    "team_kits": [
+                        "Street Wear"
+                    ],
+                    "source": "CLOUDINARY"
+                },
+                {
+                    "type": "color-variation",
+                    "productId": "KH7472",
+                    "name": "ADISTAR XLG 2.0 SHOES",
+                    "url": "/adistar-xlg-2.0-shoes/KH7472.html",
+                    "image": "https://assets.adidas.com/images/w_600,f_auto,q_auto/b24afa6eb3b647fc96a547b643df2bbb_9366/ADISTAR_XLG_2.0_SHOES_White_KH7472_00_plp_standard.jpg",
+                    "altImage": "https://assets.adidas.com/images/w_600,f_auto,q_auto/8705804860ea49eb9ff38ee16fa55452_9366/ADISTAR_XLG_2.0_SHOES_White_KH7472_02_standard_hover.jpg",
+                    "dynamic_background_image": "https://assets.adidas.com/images/w_600,f_auto,q_auto/5c7cb73c208a4c0a81f3181773e57573_faec/ADISTAR_XLG_2.0_SHOES_White_KH7472_db01_00_standard.tiff.jpg",
+                    "confirmed_dynamic_background_image": "https://assets.adidas.com/images/w_600,f_auto,q_auto/5c7cb73c208a4c0a81f3181773e57573_faec/ADISTAR_XLG_2.0_SHOES_White_KH7472_db01_00_standard.jpg",
+                    "pricing_information": {
+                        "standard_price": 120
+                    },
+                    "price_information": [
+                        {
+                            "value": 120,
+                            "value_no_vat": 100,
+                            "type": "original"
+                        }
+                    ],
+                    "search_color": "White",
+                    "default_color": "Cloud White / Clear Mint / Cloud White",
+                    "team_kits": [
+                        "Street Wear"
+                    ],
+                    "source": "CLOUDINARY"
+                },
+                {
+                    "type": "color-variation",
+                    "productId": "KH7989",
+                    "name": "ADISTAR XLG 2.0 SHOES",
+                    "url": "/adistar-xlg-2.0-shoes/KH7989.html",
+                    "image": "https://assets.adidas.com/images/w_600,f_auto,q_auto/86748f664dab4b4c905cbeb9020feac5_9366/ADISTAR_XLG_2.0_SHOES_Green_KH7989_00_plp_standard.jpg",
+                    "altImage": "https://assets.adidas.com/images/w_600,f_auto,q_auto/1b301a6a94614561abd1d106ceed3c0a_9366/ADISTAR_XLG_2.0_SHOES_Green_KH7989_02_standard_hover.jpg",
+                    "dynamic_background_image": "https://assets.adidas.com/images/w_600,f_auto,q_auto/03fe44fd633c4d6cad628a01c2307c3d_faec/ADISTAR_XLG_2.0_SHOES_Green_KH7989_db01_00_standard.tiff.jpg",
+                    "confirmed_dynamic_background_image": "https://assets.adidas.com/images/w_600,f_auto,q_auto/03fe44fd633c4d6cad628a01c2307c3d_faec/ADISTAR_XLG_2.0_SHOES_Green_KH7989_db01_00_standard.jpg",
+                    "pricing_information": {
+                        "standard_price": 120
+                    },
+                    "price_information": [
+                        {
+                            "value": 120,
+                            "value_no_vat": 100,
+                            "type": "original"
+                        }
+                    ],
+                    "search_color": "Green",
+                    "default_color": "Shadow Olive / Core Black / Olive Strata",
+                    "team_kits": [
+                        "Street Wear"
+                    ],
+                    "source": "CLOUDINARY"
+                },
+                {
+                    "type": "color-variation",
+                    "productId": "KI4505",
+                    "name": "ADISTAR XLG 2.0 SHOES",
+                    "url": "/adistar-xlg-2.0-shoes/KI4505.html",
+                    "image": "https://assets.adidas.com/images/w_600,f_auto,q_auto/928e0507b8614ec2ab2d3c3d8826f527_9366/ADISTAR_XLG_2.0_SHOES_Blue_KI4505_00_plp_standard.jpg",
+                    "altImage": "https://assets.adidas.com/images/w_600,f_auto,q_auto/f5818824a9294deaa6ffdd3616c9895c_9366/ADISTAR_XLG_2.0_SHOES_Blue_KI4505_02_standard_hover.jpg",
+                    "dynamic_background_image": "https://assets.adidas.com/images/w_600,f_auto,q_auto/8cf9ab843bc1450196ce3471662d48dd_faec/ADISTAR_XLG_2.0_SHOES_Blue_KI4505_db01_00_standard.tiff.jpg",
+                    "confirmed_dynamic_background_image": "https://assets.adidas.com/images/w_600,f_auto,q_auto/8cf9ab843bc1450196ce3471662d48dd_faec/ADISTAR_XLG_2.0_SHOES_Blue_KI4505_db01_00_standard.jpg",
+                    "pricing_information": {
+                        "standard_price": 120
+                    },
+                    "price_information": [
+                        {
+                            "value": 120,
+                            "value_no_vat": 100,
+                            "type": "original"
+                        }
+                    ],
+                    "badge_style": "new",
+                    "badge_text": "New",
+                    "search_color": "Blue",
+                    "default_color": "Hi-Res Blue / Core Black / Off White",
+                    "team_kits": [],
+                    "source": "CLOUDINARY"
+                },
+                {
+                    "type": "color-variation",
+                    "productId": "KJ7895",
+                    "name": "ADISTAR XLG 2.0 SHOES",
+                    "url": "/adistar-xlg-2.0-shoes/KJ7895.html",
+                    "image": "https://assets.adidas.com/images/w_600,f_auto,q_auto/b1a4ef49e8dc4e6e929d9f5bc2c2c81b_9366/ADISTAR_XLG_2.0_SHOES_Grey_KJ7895_00_plp_standard.jpg",
+                    "altImage": "https://assets.adidas.com/images/w_600,f_auto,q_auto/11fd1f85985041f5a2bb04e9ffb3185f_9366/ADISTAR_XLG_2.0_SHOES_Grey_KJ7895_02_standard_hover.jpg",
+                    "dynamic_background_image": "https://assets.adidas.com/images/w_600,f_auto,q_auto/14855910194d4734835b2e8e9a0af3db_faec/ADISTAR_XLG_2.0_SHOES_Grey_KJ7895_db01_00_standard.tiff.jpg",
+                    "confirmed_dynamic_background_image": "https://assets.adidas.com/images/w_600,f_auto,q_auto/14855910194d4734835b2e8e9a0af3db_faec/ADISTAR_XLG_2.0_SHOES_Grey_KJ7895_db01_00_standard.jpg",
+                    "pricing_information": {
+                        "standard_price": 120
+                    },
+                    "price_information": [
+                        {
+                            "value": 120,
+                            "value_no_vat": 100,
+                            "type": "original"
+                        }
+                    ],
+                    "badge_style": "new",
+                    "badge_text": "New",
+                    "search_color": "Grey",
+                    "default_color": "Grey Strata / Core Black / Off White",
+                    "team_kits": [],
+                    "source": "CLOUDINARY"
+                },
+                {
+                    "type": "color-variation",
+                    "productId": "KZ9155",
+                    "name": "ADISTAR XLG 2.0 SHOES",
+                    "url": "/adistar-xlg-2.0-shoes/KZ9155.html",
+                    "image": "https://assets.adidas.com/images/w_600,f_auto,q_auto/19472df0c9ad4e8cb5b374603e310468_9366/ADISTAR_XLG_2.0_SHOES_Black_KZ9155_00_plp_standard.jpg",
+                    "altImage": "https://assets.adidas.com/images/w_600,f_auto,q_auto/85569acd9b9641ff8a226430d691aac6_9366/ADISTAR_XLG_2.0_SHOES_Black_KZ9155_02_standard_hover.jpg",
+                    "dynamic_background_image": "https://assets.adidas.com/images/w_600,f_auto,q_auto/f24c2e28e72e4b2a89c98bcc7596b8e2_faec/ADISTAR_XLG_2.0_SHOES_Black_KZ9155_db01_00_standard.tiff.jpg",
+                    "confirmed_dynamic_background_image": "https://assets.adidas.com/images/w_600,f_auto,q_auto/f24c2e28e72e4b2a89c98bcc7596b8e2_faec/ADISTAR_XLG_2.0_SHOES_Black_KZ9155_db01_00_standard.jpg",
+                    "pricing_information": {
+                        "standard_price": 120
+                    },
+                    "price_information": [
+                        {
+                            "value": 120,
+                            "value_no_vat": 100,
+                            "type": "original"
+                        }
+                    ],
+                    "badge_style": "new",
+                    "badge_text": "New",
+                    "search_color": "Black",
+                    "default_color": "Core Black / Core Black / Cloud White",
+                    "team_kits": [],
+                    "source": "CLOUDINARY"
+                }
+            ],
+            "partners": [
+                "Pharrell"
+            ],
+            "variation_list": [
+                {
+                    "sku": "HQ7551_520",
+                    "size": "3",
+                    "gtin": "4068814230804"
+                },
+                {
+                    "sku": "HQ7551_530",
+                    "size": "3.5",
+                    "gtin": "4068814230767"
+                },
+                {
+                    "sku": "HQ7551_540",
+                    "size": "4",
+                    "gtin": "4068814230651"
+                },
+                {
+                    "sku": "HQ7551_550",
+                    "size": "4.5",
+                    "gtin": "4068814230736"
+                },
+                {
+                    "sku": "HQ7551_560",
+                    "size": "5",
+                    "gtin": "4068814230743"
+                },
+                {
+                    "sku": "HQ7551_570",
+                    "size": "5.5",
+                    "gtin": "4068814230811"
+                },
+                {
+                    "sku": "HQ7551_580",
+                    "size": "6",
+                    "gtin": "4068814230774"
+                },
+                {
+                    "sku": "HQ7551_590",
+                    "size": "6.5",
+                    "gtin": "4068814227033"
+                },
+                {
+                    "sku": "HQ7551_600",
+                    "size": "7",
+                    "gtin": "4068814230729"
+                },
+                {
+                    "sku": "HQ7551_610",
+                    "size": "7.5",
+                    "gtin": "4068814230781"
+                },
+                {
+                    "sku": "HQ7551_620",
+                    "size": "8",
+                    "gtin": "4068814230750"
+                },
+                {
+                    "sku": "HQ7551_630",
+                    "size": "8.5",
+                    "gtin": "4068814230699"
+                },
+                {
+                    "sku": "HQ7551_640",
+                    "size": "9",
+                    "gtin": "4068814230705"
+                },
+                {
+                    "sku": "HQ7551_650",
+                    "size": "9.5",
+                    "gtin": "4068814227064"
+                },
+                {
+                    "sku": "HQ7551_660",
+                    "size": "10",
+                    "gtin": "4068814227026"
+                },
+                {
+                    "sku": "HQ7551_670",
+                    "size": "10.5",
+                    "gtin": "4068814230712"
+                },
+                {
+                    "sku": "HQ7551_680",
+                    "size": "11",
+                    "gtin": "4068814230668"
+                },
+                {
+                    "sku": "HQ7551_690",
+                    "size": "11.5",
+                    "gtin": "4068814230675"
+                },
+                {
+                    "sku": "HQ7551_700",
+                    "size": "12",
+                    "gtin": "4068814227040"
+                },
+                {
+                    "sku": "HQ7551_710",
+                    "size": "12.5",
+                    "gtin": "4068814230682"
+                },
+                {
+                    "sku": "HQ7551_720",
+                    "size": "13",
+                    "gtin": "4068814230798"
+                },
+                {
+                    "sku": "HQ7551_730",
+                    "size": "13.5",
+                    "gtin": "4068814227057"
+                },
+                {
+                    "sku": "HQ7551_750",
+                    "size": "14.5",
+                    "gtin": "4069999454504"
+                },
+                {
+                    "sku": "HQ7551_760",
+                    "size": "15",
+                    "gtin": "4069999454498"
+                }
+            ],
+            "links": {
+                "self": {
+                    "href": "/api/products/HQ7551"
+                }
+            },
+            "pr_id": null
+        }
+    },
+    {
+        "url": "https://www.adidas.co.uk/api/products/HQ7551?sitePath=uk&locale=en-GB",
+        "data": {
+            "id": "HQ7551",
+            "product_type": "inline",
+            "base_model_number": "ONV04",
+            "model_number": "ONV04",
+            "name": "ADISTAR XLG 2.0 SHOES",
+            "meta_data": {
+                "canonical": "//www.adidas.co.uk/adistar-xlg-2.0-shoes/HQ7551.html",
+                "description": "Shop for Green ADISTAR XLG 2.0 SHOES at adidas.co.uk! Free Shipping Options & 30 Day Returns at the official adidas online store.",
+                "keywords": "ADISTAR XLG 2.0 SHOES",
+                "page_title": "adidas ADISTAR XLG 2.0 SHOES - Green | adidas UK",
+                "site_name": "adidas United Kingdom"
+            },
+            "view_list": [
+                {
+                    "type": "standard",
+                    "source": "CLOUDINARY",
+                    "image_url": "https://assets.adidas.com/images/w_600,f_auto,q_auto/41a3da0e9f774abba53490eac5a7aafe_9366/ADISTAR_XLG_2.0_SHOES_Green_HQ7551_01_00_standard.jpg",
+                    "metadata": {
+                        "asset_usage": [
+                            "pdp"
+                        ],
+                        "asset_category": "Photography",
+                        "imageStyle": "Standard",
+                        "view": "Side Lateral Center View",
+                        "usageTerms": "eCommerce",
+                        "sortOrder": "1",
+                        "subjects": [
+                            {
+                                "gender": "male"
+                            },
+                            {
+                                "gender": "female"
+                            }
+                        ]
+                    },
+                    "file_revision_date": "2025-09-18T14:55:10Z"
+                },
+                {
+                    "type": "videoasset",
+                    "image_url": "https://assets.adidas.com/videos/w_600,f_auto,q_auto/699955a0bec9464cb0b73c7c4fb07667_d98c/ADISTAR_XLG_2.0_SHOES_Green_HQ7551_video.jpg",
+                    "video_url": "https://assets.adidas.com/videos/t_videomain/699955a0bec9464cb0b73c7c4fb07667_d98c/ADISTAR_XLG_2.0_SHOES_Green_HQ7551_video.mp4",
+                    "source": "CLOUDINARY",
+                    "metadata": {
+                        "asset_usage": [
+                            "pdp"
+                        ],
+                        "asset_category": "Video - CG",
+                        "imageStyle": "Marketing",
+                        "view": "HeroMrktng View 1",
+                        "usageTerms": "eCommerceMarketing",
+                        "sortOrder": "10",
+                        "subjects": [
+                            {
+                                "gender": "male"
+                            },
+                            {
+                                "gender": "female"
+                            }
+                        ]
+                    },
+                    "file_revision_date": "2025-11-14T09:40:57Z"
+                },
+                {
+                    "type": "other",
+                    "source": "CLOUDINARY",
+                    "image_url": "https://assets.adidas.com/images/w_600,f_auto,q_auto/9a70d067bdfd4b4cb5cbd8777795ee97_9366/ADISTAR_XLG_2.0_SHOES_Green_HQ7551_02_standard_hover.jpg",
+                    "metadata": {
+                        "asset_usage": [
+                            "pdp",
+                            "plp"
+                        ],
+                        "asset_category": "Photography",
+                        "imageStyle": "Standard",
+                        "view": "Top Portrait View",
+                        "usageTerms": "eCommerce",
+                        "sortOrder": "2",
+                        "subjects": [
+                            {
+                                "gender": "male"
+                            },
+                            {
+                                "gender": "female"
+                            }
+                        ]
+                    },
+                    "file_revision_date": "2025-09-18T14:55:23Z"
+                },
+                {
+                    "type": "standard",
+                    "source": "CLOUDINARY",
+                    "image_url": "https://assets.adidas.com/images/w_600,f_auto,q_auto/39628bbc08204ef6a30fa608d6fe2ca3_9366/ADISTAR_XLG_2.0_SHOES_Green_HQ7551_03_standard.jpg",
+                    "metadata": {
+                        "asset_usage": [
+                            "pdp"
+                        ],
+                        "asset_category": "Photography",
+                        "imageStyle": "Standard",
+                        "view": "Bottom View",
+                        "usageTerms": "eCommerce",
+                        "sortOrder": "3",
+                        "subjects": [
+                            {
+                                "gender": "male"
+                            },
+                            {
+                                "gender": "female"
+                            }
+                        ]
+                    },
+                    "file_revision_date": "2025-09-18T14:55:34Z"
+                },
+                {
+                    "type": "standard",
+                    "source": "CLOUDINARY",
+                    "image_url": "https://assets.adidas.com/images/w_600,f_auto,q_auto/8b0cda5d79c54e01bb8bd17d28c8120b_9366/ADISTAR_XLG_2.0_SHOES_Green_HQ7551_04_standard.jpg",
+                    "metadata": {
+                        "asset_usage": [
+                            "pdp"
+                        ],
+                        "asset_category": "Photography",
+                        "imageStyle": "Standard",
+                        "view": "Front Lateral Top View",
+                        "usageTerms": "eCommerce",
+                        "sortOrder": "4",
+                        "subjects": [
+                            {
+                                "gender": "male"
+                            },
+                            {
+                                "gender": "female"
+                            }
+                        ]
+                    },
+                    "file_revision_date": "2025-09-18T14:55:55Z"
+                },
+                {
+                    "type": "standard",
+                    "source": "CLOUDINARY",
+                    "image_url": "https://assets.adidas.com/images/w_600,f_auto,q_auto/85282180d963490282d740f12249df6c_9366/ADISTAR_XLG_2.0_SHOES_Green_HQ7551_05_standard.jpg",
+                    "metadata": {
+                        "asset_usage": [
+                            "pdp"
+                        ],
+                        "asset_category": "Photography",
+                        "imageStyle": "Standard",
+                        "view": "Back Lateral Top View",
+                        "usageTerms": "eCommerce",
+                        "sortOrder": "5",
+                        "subjects": [
+                            {
+                                "gender": "male"
+                            },
+                            {
+                                "gender": "female"
+                            }
+                        ]
+                    },
+                    "file_revision_date": "2025-09-18T14:55:54Z"
+                },
+                {
+                    "type": "standard",
+                    "source": "CLOUDINARY",
+                    "image_url": "https://assets.adidas.com/images/w_600,f_auto,q_auto/ed82fb7cce7b4c318386fef7bd82c66d_9366/ADISTAR_XLG_2.0_SHOES_Green_HQ7551_06_standard.jpg",
+                    "metadata": {
+                        "asset_usage": [
+                            "pdp"
+                        ],
+                        "asset_category": "Photography",
+                        "imageStyle": "Standard",
+                        "view": "Side Medial Center View",
+                        "usageTerms": "eCommerce",
+                        "sortOrder": "6",
+                        "subjects": [
+                            {
+                                "gender": "male"
+                            },
+                            {
+                                "gender": "female"
+                            }
+                        ]
+                    },
+                    "file_revision_date": "2025-09-18T14:55:16Z"
+                },
+                {
+                    "type": "standard",
+                    "source": "CLOUDINARY",
+                    "image_url": "https://assets.adidas.com/images/w_600,f_auto,q_auto/36df91a2a83b4f1ebda17039759fb2c3_9366/ADISTAR_XLG_2.0_SHOES_Green_HQ7551_09_standard.jpg",
+                    "metadata": {
+                        "asset_usage": [
+                            "pdp"
+                        ],
+                        "asset_category": "Photography",
+                        "imageStyle": "Standard",
+                        "view": "Mirrored Pair View",
+                        "usageTerms": "eCommerce",
+                        "sortOrder": "7",
+                        "subjects": [
+                            {
+                                "gender": "male"
+                            },
+                            {
+                                "gender": "female"
+                            }
+                        ]
+                    },
+                    "file_revision_date": "2025-09-18T15:20:10Z"
+                },
+                {
+                    "type": "detail",
+                    "source": "CLOUDINARY",
+                    "image_url": "https://assets.adidas.com/images/w_600,f_auto,q_auto/b8abedbcf444465ea5dd14a0ef2b683b_9366/ADISTAR_XLG_2.0_SHOES_Green_HQ7551_41_detail.jpg",
+                    "metadata": {
+                        "asset_usage": [
+                            "pdp"
+                        ],
+                        "asset_category": "Photography",
+                        "imageStyle": "Standard",
+                        "view": "Detail View 1",
+                        "usageTerms": "eCommerce",
+                        "sortOrder": "8",
+                        "subjects": [
+                            {
+                                "gender": "male"
+                            },
+                            {
+                                "gender": "female"
+                            }
+                        ]
+                    },
+                    "file_revision_date": "2025-09-18T14:55:53Z"
+                },
+                {
+                    "type": "detail",
+                    "source": "CLOUDINARY",
+                    "image_url": "https://assets.adidas.com/images/w_600,f_auto,q_auto/9e5b97b4084242d2a40aa90751c8cad8_9366/ADISTAR_XLG_2.0_SHOES_Green_HQ7551_42_detail.jpg",
+                    "metadata": {
+                        "asset_usage": [
+                            "pdp"
+                        ],
+                        "asset_category": "Photography",
+                        "imageStyle": "Standard",
+                        "view": "Detail View 2",
+                        "usageTerms": "eCommerce",
+                        "sortOrder": "9",
+                        "subjects": [
+                            {
+                                "gender": "male"
+                            },
+                            {
+                                "gender": "female"
+                            }
+                        ]
+                    },
+                    "file_revision_date": "2025-09-18T14:56:03Z"
+                }
+            ],
+            "dynamic_background_assets": [
+                {
+                    "type": "standard",
+                    "source": "CLOUDINARY",
+                    "image_url": "https://assets.adidas.com/images/w_600,f_auto,q_auto/41a3da0e9f774abba53490eac5a7aafe_faec/ADISTAR_XLG_2.0_SHOES_Green_HQ7551_db01_00_standard.tiff.jpg",
+                    "metadata": {
+                        "asset_usage": [
+                            "pdp"
+                        ],
+                        "asset_category": "Photography",
+                        "image_style": "Standard",
+                        "view": "Side Lateral Center View",
+                        "usage_terms": "eCommerce",
+                        "sort_order": "1",
+                        "subjects": [
+                            {
+                                "gender": "male"
+                            },
+                            {
+                                "gender": "female"
+                            }
+                        ]
+                    },
+                    "file_revision_date": "2025-09-18T14:55:10Z"
+                },
+                {
+                    "type": "other",
+                    "source": "CLOUDINARY",
+                    "image_url": "https://assets.adidas.com/images/w_600,f_auto,q_auto/9a70d067bdfd4b4cb5cbd8777795ee97_faec/ADISTAR_XLG_2.0_SHOES_Green_HQ7551_db02_standard_hover.tiff.jpg",
+                    "metadata": {
+                        "asset_usage": [
+                            "pdp",
+                            "plp"
+                        ],
+                        "asset_category": "Photography",
+                        "image_style": "Standard",
+                        "view": "Top Portrait View",
+                        "usage_terms": "eCommerce",
+                        "sort_order": "2",
+                        "subjects": [
+                            {
+                                "gender": "male"
+                            },
+                            {
+                                "gender": "female"
+                            }
+                        ]
+                    },
+                    "file_revision_date": "2025-09-18T14:55:23Z"
+                },
+                {
+                    "type": "standard",
+                    "source": "CLOUDINARY",
+                    "image_url": "https://assets.adidas.com/images/w_600,f_auto,q_auto/39628bbc08204ef6a30fa608d6fe2ca3_faec/ADISTAR_XLG_2.0_SHOES_Green_HQ7551_db03_standard.tiff.jpg",
+                    "metadata": {
+                        "asset_usage": [
+                            "pdp"
+                        ],
+                        "asset_category": "Photography",
+                        "image_style": "Standard",
+                        "view": "Bottom View",
+                        "usage_terms": "eCommerce",
+                        "sort_order": "3",
+                        "subjects": [
+                            {
+                                "gender": "male"
+                            },
+                            {
+                                "gender": "female"
+                            }
+                        ]
+                    },
+                    "file_revision_date": "2025-09-18T14:55:34Z"
+                },
+                {
+                    "type": "standard",
+                    "source": "CLOUDINARY",
+                    "image_url": "https://assets.adidas.com/images/w_600,f_auto,q_auto/8b0cda5d79c54e01bb8bd17d28c8120b_faec/ADISTAR_XLG_2.0_SHOES_Green_HQ7551_db04_standard.tiff.jpg",
+                    "metadata": {
+                        "asset_usage": [
+                            "pdp"
+                        ],
+                        "asset_category": "Photography",
+                        "image_style": "Standard",
+                        "view": "Front Lateral Top View",
+                        "usage_terms": "eCommerce",
+                        "sort_order": "4",
+                        "subjects": [
+                            {
+                                "gender": "male"
+                            },
+                            {
+                                "gender": "female"
+                            }
+                        ]
+                    },
+                    "file_revision_date": "2025-09-18T14:55:55Z"
+                },
+                {
+                    "type": "standard",
+                    "source": "CLOUDINARY",
+                    "image_url": "https://assets.adidas.com/images/w_600,f_auto,q_auto/85282180d963490282d740f12249df6c_faec/ADISTAR_XLG_2.0_SHOES_Green_HQ7551_db05_standard.tiff.jpg",
+                    "metadata": {
+                        "asset_usage": [
+                            "pdp"
+                        ],
+                        "asset_category": "Photography",
+                        "image_style": "Standard",
+                        "view": "Back Lateral Top View",
+                        "usage_terms": "eCommerce",
+                        "sort_order": "5",
+                        "subjects": [
+                            {
+                                "gender": "male"
+                            },
+                            {
+                                "gender": "female"
+                            }
+                        ]
+                    },
+                    "file_revision_date": "2025-09-18T14:55:54Z"
+                },
+                {
+                    "type": "standard",
+                    "source": "CLOUDINARY",
+                    "image_url": "https://assets.adidas.com/images/w_600,f_auto,q_auto/ed82fb7cce7b4c318386fef7bd82c66d_faec/ADISTAR_XLG_2.0_SHOES_Green_HQ7551_db06_standard.tiff.jpg",
+                    "metadata": {
+                        "asset_usage": [
+                            "pdp"
+                        ],
+                        "asset_category": "Photography",
+                        "image_style": "Standard",
+                        "view": "Side Medial Center View",
+                        "usage_terms": "eCommerce",
+                        "sort_order": "6",
+                        "subjects": [
+                            {
+                                "gender": "male"
+                            },
+                            {
+                                "gender": "female"
+                            }
+                        ]
+                    },
+                    "file_revision_date": "2025-09-18T14:55:16Z"
+                },
+                {
+                    "type": "standard",
+                    "source": "CLOUDINARY",
+                    "image_url": "https://assets.adidas.com/images/w_600,f_auto,q_auto/36df91a2a83b4f1ebda17039759fb2c3_faec/ADISTAR_XLG_2.0_SHOES_Green_HQ7551_db09_standard.tiff.jpg",
+                    "metadata": {
+                        "asset_usage": [
+                            "pdp"
+                        ],
+                        "asset_category": "Photography",
+                        "image_style": "Standard",
+                        "view": "Mirrored Pair View",
+                        "usage_terms": "eCommerce",
+                        "sort_order": "7",
+                        "subjects": [
+                            {
+                                "gender": "male"
+                            },
+                            {
+                                "gender": "female"
+                            }
+                        ]
+                    },
+                    "file_revision_date": "2025-09-18T15:20:10Z"
+                },
+                {
+                    "type": "detail",
+                    "source": "CLOUDINARY",
+                    "image_url": "https://assets.adidas.com/images/w_600,f_auto,q_auto/b8abedbcf444465ea5dd14a0ef2b683b_faec/ADISTAR_XLG_2.0_SHOES_Green_HQ7551_db41_detail.tiff.jpg",
+                    "metadata": {
+                        "asset_usage": [
+                            "pdp"
+                        ],
+                        "asset_category": "Photography",
+                        "image_style": "Standard",
+                        "view": "Detail View 1",
+                        "usage_terms": "eCommerce",
+                        "sort_order": "8",
+                        "subjects": [
+                            {
+                                "gender": "male"
+                            },
+                            {
+                                "gender": "female"
+                            }
+                        ]
+                    },
+                    "file_revision_date": "2025-09-18T14:55:53Z"
+                },
+                {
+                    "type": "detail",
+                    "source": "CLOUDINARY",
+                    "image_url": "https://assets.adidas.com/images/w_600,f_auto,q_auto/9e5b97b4084242d2a40aa90751c8cad8_faec/ADISTAR_XLG_2.0_SHOES_Green_HQ7551_db42_detail.tiff.jpg",
+                    "metadata": {
+                        "asset_usage": [
+                            "pdp"
+                        ],
+                        "asset_category": "Photography",
+                        "image_style": "Standard",
+                        "view": "Detail View 2",
+                        "usage_terms": "eCommerce",
+                        "sort_order": "9",
+                        "subjects": [
+                            {
+                                "gender": "male"
+                            },
+                            {
+                                "gender": "female"
+                            }
+                        ]
+                    },
+                    "file_revision_date": "2025-09-18T14:56:03Z"
+                }
+            ],
+            "confirmed_dynamic_background_assets": [
+                {
+                    "type": "standard",
+                    "source": "CLOUDINARY",
+                    "image_url": "https://assets.adidas.com/images/w_600,f_auto,q_auto/41a3da0e9f774abba53490eac5a7aafe_faec/ADISTAR_XLG_2.0_SHOES_Green_HQ7551_db01_00_standard.jpg",
+                    "metadata": {
+                        "asset_usage": [
+                            "pdp"
+                        ],
+                        "asset_category": "Photography",
+                        "image_style": "Standard",
+                        "view": "Side Lateral Center View",
+                        "usage_terms": "eCommerce",
+                        "sort_order": "1",
+                        "subjects": [
+                            {
+                                "gender": "male"
+                            },
+                            {
+                                "gender": "female"
+                            }
+                        ]
+                    },
+                    "file_revision_date": "2025-09-18T14:55:10Z"
+                },
+                {
+                    "type": "other",
+                    "source": "CLOUDINARY",
+                    "image_url": "https://assets.adidas.com/images/w_600,f_auto,q_auto/9a70d067bdfd4b4cb5cbd8777795ee97_faec/ADISTAR_XLG_2.0_SHOES_Green_HQ7551_db02_standard_hover.jpg",
+                    "metadata": {
+                        "asset_usage": [
+                            "pdp",
+                            "plp"
+                        ],
+                        "asset_category": "Photography",
+                        "image_style": "Standard",
+                        "view": "Top Portrait View",
+                        "usage_terms": "eCommerce",
+                        "sort_order": "2",
+                        "subjects": [
+                            {
+                                "gender": "male"
+                            },
+                            {
+                                "gender": "female"
+                            }
+                        ]
+                    },
+                    "file_revision_date": "2025-09-18T14:55:23Z"
+                },
+                {
+                    "type": "standard",
+                    "source": "CLOUDINARY",
+                    "image_url": "https://assets.adidas.com/images/w_600,f_auto,q_auto/39628bbc08204ef6a30fa608d6fe2ca3_faec/ADISTAR_XLG_2.0_SHOES_Green_HQ7551_db03_standard.jpg",
+                    "metadata": {
+                        "asset_usage": [
+                            "pdp"
+                        ],
+                        "asset_category": "Photography",
+                        "image_style": "Standard",
+                        "view": "Bottom View",
+                        "usage_terms": "eCommerce",
+                        "sort_order": "3",
+                        "subjects": [
+                            {
+                                "gender": "male"
+                            },
+                            {
+                                "gender": "female"
+                            }
+                        ]
+                    },
+                    "file_revision_date": "2025-09-18T14:55:34Z"
+                },
+                {
+                    "type": "standard",
+                    "source": "CLOUDINARY",
+                    "image_url": "https://assets.adidas.com/images/w_600,f_auto,q_auto/8b0cda5d79c54e01bb8bd17d28c8120b_faec/ADISTAR_XLG_2.0_SHOES_Green_HQ7551_db04_standard.jpg",
+                    "metadata": {
+                        "asset_usage": [
+                            "pdp"
+                        ],
+                        "asset_category": "Photography",
+                        "image_style": "Standard",
+                        "view": "Front Lateral Top View",
+                        "usage_terms": "eCommerce",
+                        "sort_order": "4",
+                        "subjects": [
+                            {
+                                "gender": "male"
+                            },
+                            {
+                                "gender": "female"
+                            }
+                        ]
+                    },
+                    "file_revision_date": "2025-09-18T14:55:55Z"
+                },
+                {
+                    "type": "standard",
+                    "source": "CLOUDINARY",
+                    "image_url": "https://assets.adidas.com/images/w_600,f_auto,q_auto/85282180d963490282d740f12249df6c_faec/ADISTAR_XLG_2.0_SHOES_Green_HQ7551_db05_standard.jpg",
+                    "metadata": {
+                        "asset_usage": [
+                            "pdp"
+                        ],
+                        "asset_category": "Photography",
+                        "image_style": "Standard",
+                        "view": "Back Lateral Top View",
+                        "usage_terms": "eCommerce",
+                        "sort_order": "5",
+                        "subjects": [
+                            {
+                                "gender": "male"
+                            },
+                            {
+                                "gender": "female"
+                            }
+                        ]
+                    },
+                    "file_revision_date": "2025-09-18T14:55:54Z"
+                },
+                {
+                    "type": "standard",
+                    "source": "CLOUDINARY",
+                    "image_url": "https://assets.adidas.com/images/w_600,f_auto,q_auto/ed82fb7cce7b4c318386fef7bd82c66d_faec/ADISTAR_XLG_2.0_SHOES_Green_HQ7551_db06_standard.jpg",
+                    "metadata": {
+                        "asset_usage": [
+                            "pdp"
+                        ],
+                        "asset_category": "Photography",
+                        "image_style": "Standard",
+                        "view": "Side Medial Center View",
+                        "usage_terms": "eCommerce",
+                        "sort_order": "6",
+                        "subjects": [
+                            {
+                                "gender": "male"
+                            },
+                            {
+                                "gender": "female"
+                            }
+                        ]
+                    },
+                    "file_revision_date": "2025-09-18T14:55:16Z"
+                },
+                {
+                    "type": "detail",
+                    "source": "CLOUDINARY",
+                    "image_url": "https://assets.adidas.com/images/w_600,f_auto,q_auto/b8abedbcf444465ea5dd14a0ef2b683b_faec/ADISTAR_XLG_2.0_SHOES_Green_HQ7551_db41_detail.jpg",
+                    "metadata": {
+                        "asset_usage": [
+                            "pdp"
+                        ],
+                        "asset_category": "Photography",
+                        "image_style": "Standard",
+                        "view": "Detail View 1",
+                        "usage_terms": "eCommerce",
+                        "sort_order": "7",
+                        "subjects": [
+                            {
+                                "gender": "male"
+                            },
+                            {
+                                "gender": "female"
+                            }
+                        ]
+                    },
+                    "file_revision_date": "2025-09-18T14:55:53Z"
+                },
+                {
+                    "type": "detail",
+                    "source": "CLOUDINARY",
+                    "image_url": "https://assets.adidas.com/images/w_600,f_auto,q_auto/9e5b97b4084242d2a40aa90751c8cad8_faec/ADISTAR_XLG_2.0_SHOES_Green_HQ7551_db42_detail.jpg",
+                    "metadata": {
+                        "asset_usage": [
+                            "pdp"
+                        ],
+                        "asset_category": "Photography",
+                        "image_style": "Standard",
+                        "view": "Detail View 2",
+                        "usage_terms": "eCommerce",
+                        "sort_order": "8",
+                        "subjects": [
+                            {
+                                "gender": "male"
+                            },
+                            {
+                                "gender": "female"
+                            }
+                        ]
+                    },
+                    "file_revision_date": "2025-09-18T14:56:03Z"
+                }
+            ],
+            "product_listing_assets": [
+                {
+                    "type": "standard",
+                    "source": "CLOUDINARY",
+                    "image_url": "https://assets.adidas.com/images/w_600,f_auto,q_auto/715ba779b4104750a2e542ea24a4fee7_9366/ADISTAR_XLG_2.0_SHOES_Green_HQ7551_00_plp_standard.jpg",
+                    "metadata": {
+                        "asset_usage": [
+                            "plp"
+                        ],
+                        "asset_category": "Photography",
+                        "image_style": "Standard",
+                        "view": "Side Lateral View",
+                        "usage_terms": "eCommerce",
+                        "sort_order": "0",
+                        "subjects": [
+                            {
+                                "gender": "male"
+                            },
+                            {
+                                "gender": "female"
+                            }
+                        ]
+                    },
+                    "file_revision_date": "2025-09-18T15:20:21Z"
+                },
+                {
+                    "type": "other",
+                    "source": "CLOUDINARY",
+                    "image_url": "https://assets.adidas.com/images/w_600,f_auto,q_auto/9a70d067bdfd4b4cb5cbd8777795ee97_9366/ADISTAR_XLG_2.0_SHOES_Green_HQ7551_02_standard_hover.jpg",
+                    "metadata": {
+                        "asset_usage": [
+                            "pdp",
+                            "plp"
+                        ],
+                        "asset_category": "Photography",
+                        "image_style": "Standard",
+                        "view": "Top Portrait View",
+                        "usage_terms": "eCommerce",
+                        "sort_order": "2",
+                        "subjects": [
+                            {
+                                "gender": "male"
+                            },
+                            {
+                                "gender": "female"
+                            }
+                        ]
+                    },
+                    "file_revision_date": "2025-09-18T14:55:23Z"
+                }
+            ],
+            "attribute_list": {
+                "sale": false,
+                "brand": "Originals",
+                "color": "Semi Screaming Green / Core Black / Iron Metallic",
+                "colors": {
+                    "color1code": "AE78",
+                    "color2code": "A0QM",
+                    "color3code": "A3NF"
+                },
+                "gender": "U",
+                "outlet": false,
+                "sport": [
+                    "Lifestyle"
+                ],
+                "weight": "472",
+                "closure": [
+                    "Laces"
+                ],
+                "surface": [
+                    "Street"
+                ],
+                "category": "Shoes",
+                "size_page": "S1",
+                "sport_ids": [
+                    "Lifestyle"
+                ],
+                "team_kits": [
+                    "Street Wear"
+                ],
+                "sportSub": [
+                    "adistar"
+                ],
+                "category_id": [
+                    "Shoes"
+                ],
+                "closure_ids": [
+                    "Laces"
+                ],
+                "productfit": [
+                    "Regular"
+                ],
+                "size_fit_bar": {
+                    "value": "ftw_3",
+                    "markerCount": 5,
+                    "selectedMarkerIndex": 2
+                },
+                "surface_ids": [
+                    "Street"
+                ],
+                "team_kit_ids": [
+                    "Street Wear"
+                ],
+                "weight_unit": "g",
+                "collection": [
+                    "Lifestyle Running",
+                    "Back to fitness",
+                    "Trending",
+                    "Spring Favourites",
+                    "Collaborations"
+                ],
+                "search_color": "Green",
+                "base_material": [
+                    "Textile Upper"
+                ],
+                "edition_types": {},
+                "productType": [
+                    "Trainers"
+                ],
+                "midsole_offset": "0.000",
+                "product_fit_ids": [
+                    "Regular"
+                ],
+                "personalizable": false,
+                "toe_stack_height": "0.00",
+                "base_material_ids": [
+                    "Textile Upper"
+                ],
+                "heel_stack_height": "0.00",
+                "isCnCRestricted": false,
+                "key_category_code": "00142",
+                "product_features": [
+                    "Cushioning"
+                ],
+                "gift_wrapping_flag": null,
+                "genericProductType": [
+                    "TRAINERS"
+                ],
+                "mandatory_personalization": false,
+                "product_type_generic_product_type": "TRAINERS",
+                "pxp_type": "NONE",
+                "customizable": false,
+                "search_color_raw": "Green",
+                "is_orderable": true,
+                "isWaitingRoomProduct": false,
+                "isInPreview": false,
+                "specialLaunch": false,
+                "special_launch_type": "NONE",
+                "sizeTypes": {},
+                "is_flash": false,
+                "is_made_to_be_remade": false,
+                "coming_soon_signup": false,
+                "preview_to": "2025-12-03T23:00:00.000Z",
+                "product_sizing_category": "shoe",
+                "size_chart_id": "size-chart-size-shoes",
+                "size_chart_link": "/on/demandware.store/Sites-adidas-GB-Site/en_GB/Page-Include?cid=size-chart-size-shoes"
+            },
+            "breadcrumb_list": [
+                {
+                    "text": "Originals",
+                    "link": "/originals"
+                },
+                {
+                    "text": "Shoes",
+                    "link": "/originals-shoes"
+                }
+            ],
+            "pricing_information": {
+                "currentPrice": 120,
+                "standard_price": 120,
+                "standard_price_no_vat": 100
+            },
+            "price_information": [
+                {
+                    "value": 120,
+                    "value_no_vat": 100,
+                    "type": "original"
+                }
+            ],
+            "tax_class_id": "FullTax",
+            "product_description": {
+                "title": "ADISTAR XLG 2.0 SHOES",
+                "text": "The Adistar XLG 2.0 shoes are part of the adidas Originals family. Inspired by the running silhouettes of the 00s, they have been reimagined for today's urban lifestyle.\n\nThe mesh base and reflective details add a touch of modernity, while the rubber outsole provides reliable grip and durability. Adiprene cushioning in the heel provides extra comfort.\n\nThese shoes are a testament to adidas' commitment to quality and innovation. Whether you're navigating city streets or enjoying a casual day out, these shoes help you do it with style and ease.",
+                "subtitle": "Shoes with Adiprene cushioning for everyday comfort and flexible support.",
+                "usps": [
+                    "Regular fit",
+                    "Laces",
+                    "Textile upper",
+                    "Textile sockliner",
+                    "Rubber outsole",
+                    "Reflective details",
+                    "ADIPRENE cushioning"
+                ],
+                "wash_care_instructions": {
+                    "care_instructions": []
+                },
+                "description_assets": {
+                    "image_url": "https://assets.adidas.com/images/w_600,f_auto,q_auto/8b0cda5d79c54e01bb8bd17d28c8120b_9366/ADISTAR_XLG_2.0_SHOES_Green_HQ7551.jpg",
+                    "video_url": null,
+                    "poster_url": null
+                }
+            },
+            "recommendationsEnabled": true,
+            "product_link_list": [
+                {
+                    "type": "color-variation",
+                    "productId": "HQ7468",
+                    "name": "ADISTAR XLG 2.0 SHOES",
+                    "url": "/adistar-xlg-2.0-shoes/HQ7468.html",
+                    "image": "https://assets.adidas.com/images/w_600,f_auto,q_auto/cddca20273714bfa94de502920ad1d91_9366/ADISTAR_XLG_2.0_SHOES_White_HQ7468_00_plp_standard.jpg",
+                    "altImage": "https://assets.adidas.com/images/w_600,f_auto,q_auto/38ffff575f194403ae15df001c33db6a_9366/ADISTAR_XLG_2.0_SHOES_White_HQ7468_02_standard_hover.jpg",
+                    "dynamic_background_image": "https://assets.adidas.com/images/w_600,f_auto,q_auto/6478fb39e74a489aad75638b10c690f0_faec/ADISTAR_XLG_2.0_SHOES_White_HQ7468_db01_00_standard.tiff.jpg",
+                    "confirmed_dynamic_background_image": "https://assets.adidas.com/images/w_600,f_auto,q_auto/6478fb39e74a489aad75638b10c690f0_faec/ADISTAR_XLG_2.0_SHOES_White_HQ7468_db01_00_standard.jpg",
+                    "pricing_information": {
+                        "standard_price": 120
+                    },
+                    "price_information": [
+                        {
+                            "value": 120,
+                            "value_no_vat": 100,
+                            "type": "original"
+                        }
+                    ],
+                    "search_color": "White",
+                    "default_color": "Cloud White / Core Black / Solar Orange",
+                    "team_kits": [
+                        "Street Wear"
+                    ],
+                    "source": "CLOUDINARY"
+                },
+                {
+                    "type": "color-variation",
+                    "productId": "HQ7553",
+                    "name": "ADISTAR XLG 2.0 SHOES",
+                    "url": "/adistar-xlg-2.0-shoes/HQ7553.html",
+                    "image": "https://assets.adidas.com/images/w_600,f_auto,q_auto/e910fb6c38054a0bb1070d602a6c248e_9366/ADISTAR_XLG_2.0_SHOES_Grey_HQ7553_00_plp_standard.jpg",
+                    "altImage": "https://assets.adidas.com/images/w_600,f_auto,q_auto/eecba664ac564963893c52bcb0e2cf7e_9366/ADISTAR_XLG_2.0_SHOES_Grey_HQ7553_02_standard_hover.jpg",
+                    "dynamic_background_image": "https://assets.adidas.com/images/w_600,f_auto,q_auto/a499cb1985684a1181297865c43fdd4f_faec/ADISTAR_XLG_2.0_SHOES_Grey_HQ7553_db01_00_standard.tiff.jpg",
+                    "confirmed_dynamic_background_image": "https://assets.adidas.com/images/w_600,f_auto,q_auto/a499cb1985684a1181297865c43fdd4f_faec/ADISTAR_XLG_2.0_SHOES_Grey_HQ7553_db01_00_standard.jpg",
+                    "pricing_information": {
+                        "standard_price": 120
+                    },
+                    "price_information": [
+                        {
+                            "value": 120,
+                            "value_no_vat": 100,
+                            "type": "original"
+                        }
+                    ],
+                    "search_color": "Grey",
+                    "default_color": "Grey One / Silver Metallic / Grey Two",
+                    "team_kits": [
+                        "Street Wear"
+                    ],
+                    "source": "CLOUDINARY"
+                },
+                {
+                    "type": "color-variation",
+                    "productId": "HQ7554",
+                    "name": "ADISTAR XLG 2.0 SHOES",
+                    "url": "/adistar-xlg-2.0-shoes/HQ7554.html",
+                    "image": "https://assets.adidas.com/images/w_600,f_auto,q_auto/f09f7ddf2e9945158b09b205c8c275a7_9366/ADISTAR_XLG_2.0_SHOES_Grey_HQ7554_00_plp_standard.jpg",
+                    "altImage": "https://assets.adidas.com/images/w_600,f_auto,q_auto/6320b12426d1419781798ef0a40f8a8d_9366/ADISTAR_XLG_2.0_SHOES_Grey_HQ7554_02_standard_hover.jpg",
+                    "dynamic_background_image": "https://assets.adidas.com/images/w_600,f_auto,q_auto/22fb44b8f8c34cc79459a218d299773d_faec/ADISTAR_XLG_2.0_SHOES_Grey_HQ7554_db01_00_standard.tiff.jpg",
+                    "confirmed_dynamic_background_image": "https://assets.adidas.com/images/w_600,f_auto,q_auto/22fb44b8f8c34cc79459a218d299773d_faec/ADISTAR_XLG_2.0_SHOES_Grey_HQ7554_db01_00_standard.jpg",
+                    "pricing_information": {
+                        "standard_price": 120
+                    },
+                    "price_information": [
+                        {
+                            "value": 120,
+                            "value_no_vat": 100,
+                            "type": "original"
+                        }
+                    ],
+                    "search_color": "Grey",
+                    "default_color": "Grey Four / Grey Four / Silver Metallic",
+                    "team_kits": [
+                        "Street Wear"
+                    ],
+                    "source": "CLOUDINARY"
+                },
+                {
+                    "type": "color-variation",
+                    "productId": "HQ7555",
+                    "name": "ADISTAR XLG 2.0 SHOES",
+                    "url": "/adistar-xlg-2.0-shoes/HQ7555.html",
+                    "image": "https://assets.adidas.com/images/w_600,f_auto,q_auto/48ac00f5cf01465fb88ad511c2cc01a6_9366/ADISTAR_XLG_2.0_SHOES_Black_HQ7555_00_plp_standard.jpg",
+                    "altImage": "https://assets.adidas.com/images/w_600,f_auto,q_auto/5b2b7d747fe4426292c08c656e75db27_9366/ADISTAR_XLG_2.0_SHOES_Black_HQ7555_02_standard_hover.jpg",
+                    "dynamic_background_image": "https://assets.adidas.com/images/w_600,f_auto,q_auto/d8a4290d05c84ef5a4bbf0769cb2ae07_faec/ADISTAR_XLG_2.0_SHOES_Black_HQ7555_db01_00_standard.tiff.jpg",
+                    "confirmed_dynamic_background_image": "https://assets.adidas.com/images/w_600,f_auto,q_auto/d8a4290d05c84ef5a4bbf0769cb2ae07_faec/ADISTAR_XLG_2.0_SHOES_Black_HQ7555_db01_00_standard.jpg",
+                    "pricing_information": {
+                        "standard_price": 120
+                    },
+                    "price_information": [
+                        {
+                            "value": 120,
+                            "value_no_vat": 100,
+                            "type": "original"
+                        }
+                    ],
+                    "search_color": "Black",
+                    "default_color": "Core Black / Core Black / Silver Metallic",
+                    "team_kits": [
+                        "Street Wear"
+                    ],
+                    "source": "CLOUDINARY"
+                },
+                {
+                    "type": "color-variation",
+                    "productId": "KH7472",
+                    "name": "ADISTAR XLG 2.0 SHOES",
+                    "url": "/adistar-xlg-2.0-shoes/KH7472.html",
+                    "image": "https://assets.adidas.com/images/w_600,f_auto,q_auto/b24afa6eb3b647fc96a547b643df2bbb_9366/ADISTAR_XLG_2.0_SHOES_White_KH7472_00_plp_standard.jpg",
+                    "altImage": "https://assets.adidas.com/images/w_600,f_auto,q_auto/8705804860ea49eb9ff38ee16fa55452_9366/ADISTAR_XLG_2.0_SHOES_White_KH7472_02_standard_hover.jpg",
+                    "dynamic_background_image": "https://assets.adidas.com/images/w_600,f_auto,q_auto/5c7cb73c208a4c0a81f3181773e57573_faec/ADISTAR_XLG_2.0_SHOES_White_KH7472_db01_00_standard.tiff.jpg",
+                    "confirmed_dynamic_background_image": "https://assets.adidas.com/images/w_600,f_auto,q_auto/5c7cb73c208a4c0a81f3181773e57573_faec/ADISTAR_XLG_2.0_SHOES_White_KH7472_db01_00_standard.jpg",
+                    "pricing_information": {
+                        "standard_price": 120
+                    },
+                    "price_information": [
+                        {
+                            "value": 120,
+                            "value_no_vat": 100,
+                            "type": "original"
+                        }
+                    ],
+                    "search_color": "White",
+                    "default_color": "Cloud White / Clear Mint / Cloud White",
+                    "team_kits": [
+                        "Street Wear"
+                    ],
+                    "source": "CLOUDINARY"
+                },
+                {
+                    "type": "color-variation",
+                    "productId": "KH7989",
+                    "name": "ADISTAR XLG 2.0 SHOES",
+                    "url": "/adistar-xlg-2.0-shoes/KH7989.html",
+                    "image": "https://assets.adidas.com/images/w_600,f_auto,q_auto/86748f664dab4b4c905cbeb9020feac5_9366/ADISTAR_XLG_2.0_SHOES_Green_KH7989_00_plp_standard.jpg",
+                    "altImage": "https://assets.adidas.com/images/w_600,f_auto,q_auto/1b301a6a94614561abd1d106ceed3c0a_9366/ADISTAR_XLG_2.0_SHOES_Green_KH7989_02_standard_hover.jpg",
+                    "dynamic_background_image": "https://assets.adidas.com/images/w_600,f_auto,q_auto/03fe44fd633c4d6cad628a01c2307c3d_faec/ADISTAR_XLG_2.0_SHOES_Green_KH7989_db01_00_standard.tiff.jpg",
+                    "confirmed_dynamic_background_image": "https://assets.adidas.com/images/w_600,f_auto,q_auto/03fe44fd633c4d6cad628a01c2307c3d_faec/ADISTAR_XLG_2.0_SHOES_Green_KH7989_db01_00_standard.jpg",
+                    "pricing_information": {
+                        "standard_price": 120
+                    },
+                    "price_information": [
+                        {
+                            "value": 120,
+                            "value_no_vat": 100,
+                            "type": "original"
+                        }
+                    ],
+                    "search_color": "Green",
+                    "default_color": "Shadow Olive / Core Black / Olive Strata",
+                    "team_kits": [
+                        "Street Wear"
+                    ],
+                    "source": "CLOUDINARY"
+                },
+                {
+                    "type": "color-variation",
+                    "productId": "KI4505",
+                    "name": "ADISTAR XLG 2.0 SHOES",
+                    "url": "/adistar-xlg-2.0-shoes/KI4505.html",
+                    "image": "https://assets.adidas.com/images/w_600,f_auto,q_auto/928e0507b8614ec2ab2d3c3d8826f527_9366/ADISTAR_XLG_2.0_SHOES_Blue_KI4505_00_plp_standard.jpg",
+                    "altImage": "https://assets.adidas.com/images/w_600,f_auto,q_auto/f5818824a9294deaa6ffdd3616c9895c_9366/ADISTAR_XLG_2.0_SHOES_Blue_KI4505_02_standard_hover.jpg",
+                    "dynamic_background_image": "https://assets.adidas.com/images/w_600,f_auto,q_auto/8cf9ab843bc1450196ce3471662d48dd_faec/ADISTAR_XLG_2.0_SHOES_Blue_KI4505_db01_00_standard.tiff.jpg",
+                    "confirmed_dynamic_background_image": "https://assets.adidas.com/images/w_600,f_auto,q_auto/8cf9ab843bc1450196ce3471662d48dd_faec/ADISTAR_XLG_2.0_SHOES_Blue_KI4505_db01_00_standard.jpg",
+                    "pricing_information": {
+                        "standard_price": 120
+                    },
+                    "price_information": [
+                        {
+                            "value": 120,
+                            "value_no_vat": 100,
+                            "type": "original"
+                        }
+                    ],
+                    "badge_style": "new",
+                    "badge_text": "New",
+                    "search_color": "Blue",
+                    "default_color": "Hi-Res Blue / Core Black / Off White",
+                    "team_kits": [],
+                    "source": "CLOUDINARY"
+                },
+                {
+                    "type": "color-variation",
+                    "productId": "KJ7895",
+                    "name": "ADISTAR XLG 2.0 SHOES",
+                    "url": "/adistar-xlg-2.0-shoes/KJ7895.html",
+                    "image": "https://assets.adidas.com/images/w_600,f_auto,q_auto/b1a4ef49e8dc4e6e929d9f5bc2c2c81b_9366/ADISTAR_XLG_2.0_SHOES_Grey_KJ7895_00_plp_standard.jpg",
+                    "altImage": "https://assets.adidas.com/images/w_600,f_auto,q_auto/11fd1f85985041f5a2bb04e9ffb3185f_9366/ADISTAR_XLG_2.0_SHOES_Grey_KJ7895_02_standard_hover.jpg",
+                    "dynamic_background_image": "https://assets.adidas.com/images/w_600,f_auto,q_auto/14855910194d4734835b2e8e9a0af3db_faec/ADISTAR_XLG_2.0_SHOES_Grey_KJ7895_db01_00_standard.tiff.jpg",
+                    "confirmed_dynamic_background_image": "https://assets.adidas.com/images/w_600,f_auto,q_auto/14855910194d4734835b2e8e9a0af3db_faec/ADISTAR_XLG_2.0_SHOES_Grey_KJ7895_db01_00_standard.jpg",
+                    "pricing_information": {
+                        "standard_price": 120
+                    },
+                    "price_information": [
+                        {
+                            "value": 120,
+                            "value_no_vat": 100,
+                            "type": "original"
+                        }
+                    ],
+                    "badge_style": "new",
+                    "badge_text": "New",
+                    "search_color": "Grey",
+                    "default_color": "Grey Strata / Core Black / Off White",
+                    "team_kits": [],
+                    "source": "CLOUDINARY"
+                },
+                {
+                    "type": "color-variation",
+                    "productId": "KZ9155",
+                    "name": "ADISTAR XLG 2.0 SHOES",
+                    "url": "/adistar-xlg-2.0-shoes/KZ9155.html",
+                    "image": "https://assets.adidas.com/images/w_600,f_auto,q_auto/19472df0c9ad4e8cb5b374603e310468_9366/ADISTAR_XLG_2.0_SHOES_Black_KZ9155_00_plp_standard.jpg",
+                    "altImage": "https://assets.adidas.com/images/w_600,f_auto,q_auto/85569acd9b9641ff8a226430d691aac6_9366/ADISTAR_XLG_2.0_SHOES_Black_KZ9155_02_standard_hover.jpg",
+                    "dynamic_background_image": "https://assets.adidas.com/images/w_600,f_auto,q_auto/f24c2e28e72e4b2a89c98bcc7596b8e2_faec/ADISTAR_XLG_2.0_SHOES_Black_KZ9155_db01_00_standard.tiff.jpg",
+                    "confirmed_dynamic_background_image": "https://assets.adidas.com/images/w_600,f_auto,q_auto/f24c2e28e72e4b2a89c98bcc7596b8e2_faec/ADISTAR_XLG_2.0_SHOES_Black_KZ9155_db01_00_standard.jpg",
+                    "pricing_information": {
+                        "standard_price": 120
+                    },
+                    "price_information": [
+                        {
+                            "value": 120,
+                            "value_no_vat": 100,
+                            "type": "original"
+                        }
+                    ],
+                    "badge_style": "new",
+                    "badge_text": "New",
+                    "search_color": "Black",
+                    "default_color": "Core Black / Core Black / Cloud White",
+                    "team_kits": [],
+                    "source": "CLOUDINARY"
+                }
+            ],
+            "partners": [
+                "Pharrell"
+            ],
+            "variation_list": [
+                {
+                    "sku": "HQ7551_520",
+                    "size": "3",
+                    "gtin": "4068814230804"
+                },
+                {
+                    "sku": "HQ7551_530",
+                    "size": "3.5",
+                    "gtin": "4068814230767"
+                },
+                {
+                    "sku": "HQ7551_540",
+                    "size": "4",
+                    "gtin": "4068814230651"
+                },
+                {
+                    "sku": "HQ7551_550",
+                    "size": "4.5",
+                    "gtin": "4068814230736"
+                },
+                {
+                    "sku": "HQ7551_560",
+                    "size": "5",
+                    "gtin": "4068814230743"
+                },
+                {
+                    "sku": "HQ7551_570",
+                    "size": "5.5",
+                    "gtin": "4068814230811"
+                },
+                {
+                    "sku": "HQ7551_580",
+                    "size": "6",
+                    "gtin": "4068814230774"
+                },
+                {
+                    "sku": "HQ7551_590",
+                    "size": "6.5",
+                    "gtin": "4068814227033"
+                },
+                {
+                    "sku": "HQ7551_600",
+                    "size": "7",
+                    "gtin": "4068814230729"
+                },
+                {
+                    "sku": "HQ7551_610",
+                    "size": "7.5",
+                    "gtin": "4068814230781"
+                },
+                {
+                    "sku": "HQ7551_620",
+                    "size": "8",
+                    "gtin": "4068814230750"
+                },
+                {
+                    "sku": "HQ7551_630",
+                    "size": "8.5",
+                    "gtin": "4068814230699"
+                },
+                {
+                    "sku": "HQ7551_640",
+                    "size": "9",
+                    "gtin": "4068814230705"
+                },
+                {
+                    "sku": "HQ7551_650",
+                    "size": "9.5",
+                    "gtin": "4068814227064"
+                },
+                {
+                    "sku": "HQ7551_660",
+                    "size": "10",
+                    "gtin": "4068814227026"
+                },
+                {
+                    "sku": "HQ7551_670",
+                    "size": "10.5",
+                    "gtin": "4068814230712"
+                },
+                {
+                    "sku": "HQ7551_680",
+                    "size": "11",
+                    "gtin": "4068814230668"
+                },
+                {
+                    "sku": "HQ7551_690",
+                    "size": "11.5",
+                    "gtin": "4068814230675"
+                },
+                {
+                    "sku": "HQ7551_700",
+                    "size": "12",
+                    "gtin": "4068814227040"
+                },
+                {
+                    "sku": "HQ7551_710",
+                    "size": "12.5",
+                    "gtin": "4068814230682"
+                },
+                {
+                    "sku": "HQ7551_720",
+                    "size": "13",
+                    "gtin": "4068814230798"
+                },
+                {
+                    "sku": "HQ7551_730",
+                    "size": "13.5",
+                    "gtin": "4068814227057"
+                },
+                {
+                    "sku": "HQ7551_750",
+                    "size": "14.5",
+                    "gtin": "4069999454504"
+                },
+                {
+                    "sku": "HQ7551_760",
+                    "size": "15",
+                    "gtin": "4069999454498"
+                }
+            ],
+            "links": {
+                "self": {
+                    "href": "/api/products/HQ7551"
+                }
+            },
+            "pr_id": null
+        }
+    }
+]
